@@ -1,0 +1,1 @@
+SELECT COUNT("type") AS "Number of Public School in a City", "city" FROM "schools" WHERE "type" = 'Public School' GROUP BY "city" HAVING "Number of Public School in a City" <= 3 ORDER BY "Number of Public School in a City" DESC, "city" ASC;
