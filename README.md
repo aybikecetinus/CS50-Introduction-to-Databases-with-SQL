@@ -1,6 +1,6 @@
 # CS50-Introduction-to-Databases-with-SQL-2026 Solutions
 
-![CS50 SQL Certificate](https://cs50.harvard.edu/certificates/a4e764ff-3109-4442-86aa-be84d2458ad4)
+![CS50 SQL Certificate](https://certificates.cs50.io/a4e764ff-3109-4442-86aa-be84d2458ad4.pdf?size=letter)
 
 ## Disclaimer
 
